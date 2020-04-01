@@ -1,0 +1,34 @@
+Fold interval:  8
+
+fold:  0
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=0_fcst_time_idx=24.joblib
+Total number of dates:  8
+Using TensorFlow backend.
+
+fold:  1
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=1_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  2
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=2_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  3
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=3_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  4
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=4_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  5
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=5_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  6
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=6_fcst_time_idx=24.joblib
+Total number of dates:  8
+
+fold:  7
+/work/mflora/ML_DATA/MODEL_SAVES/XGBoost_uncalibrated_verify_var=matched_to_lsr_norm=True_fold=7_fcst_time_idx=24.joblib
+Total number of dates:  8
